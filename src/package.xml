@@ -10,26 +10,5 @@
         <members>testingTwo</members>
         <name>ApexClass</name>
     </types>
-    <types>
-        <members>Care_Plan__c.test_2__c</members>
-        <members>Care_Plan__c.test__c</members>
-        <members>Contact.devTest__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Care_Plan__c</members>
-        <members>Vital__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Care_Plan__c-Care Plan Layout</members>
-        <members>Vital__c-Vital Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Contact.devTest</members>
-        <members>Contact.devTest_2</members>
-        <name>RecordType</name>
-    </types>
     <version>27.0</version>
 </Package>
