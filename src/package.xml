@@ -5,6 +5,8 @@
     <namespacePrefix>devMe</namespacePrefix>
     <types>
         <members>test2</members>
+        <members>test3</members>
+        <members>testingTwo</members>
         <name>ApexClass</name>
     </types>
     <types>
