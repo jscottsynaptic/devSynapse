@@ -4,10 +4,7 @@
     <apiAccessLevel>Unrestricted</apiAccessLevel>
     <namespacePrefix>devMe</namespacePrefix>
     <types>
-        <members>test2</members>
-        <members>test3</members>
         <members>test4</members>
-        <members>testingTwo</members>
         <name>ApexClass</name>
     </types>
     <version>27.0</version>
